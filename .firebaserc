@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "iziprint-fdda3": {
+      "hosting": {
+        "ng-iziprint-client": [
+          "iziprint-fdda3"
+        ]
+      }
+    }
+  }
+}
